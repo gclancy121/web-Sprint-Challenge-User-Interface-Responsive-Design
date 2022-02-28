@@ -92,6 +92,9 @@ header {
     background-position: center;
     background-repeat: no-repeat;
 }
+header a{
+    color: orange;
+}
 
 /* spacers */
 .spacer {
