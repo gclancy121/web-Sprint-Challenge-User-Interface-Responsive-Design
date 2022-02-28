@@ -96,6 +96,10 @@ header a{
     color: orange;
 }
 
+header nav{
+    color: orange;
+}
+
 /* spacers */
 .spacer {
     width: 100%;
