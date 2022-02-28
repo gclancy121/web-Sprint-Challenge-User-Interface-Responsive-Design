@@ -119,6 +119,12 @@ header {
     background-position: center;
     background-repeat: no-repeat;
 }
+.menu-section {
+    color: orange;
+}
+.menu-item {
+    color:blue; 
+}
 
 /* footer section */
 footer {
